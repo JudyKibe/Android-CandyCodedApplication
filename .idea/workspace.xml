@@ -11,8 +11,6 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_info.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -230,12 +228,20 @@
       <option name="project" value="LOCAL" />
       <updated>1601367632801</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Module 4">
+      <created>1601375794470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601375794470</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Section 2 complete" />
-    <option name="LAST_COMMIT_MESSAGE" value="Section 2 complete" />
+    <MESSAGE value="Module 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Module 4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="605" y="139" key="#com.intellij.ide.util.MemberChooser" timestamp="1601363752445">
@@ -246,10 +252,10 @@
       <screen x="0" y="0" width="1600" height="860" />
     </state>
     <state x="939" y="320" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1600.860@0.0.1600.860" timestamp="1601361958475" />
-    <state x="333" y="24" key="CommitChangelistDialog2" timestamp="1601367630792">
+    <state x="333" y="24" key="CommitChangelistDialog2" timestamp="1601375788572">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
-    <state x="333" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601367630792" />
+    <state x="333" y="24" key="CommitChangelistDialog2/0.0.1600.860@0.0.1600.860" timestamp="1601375788572" />
     <state x="580" y="185" key="FileChooserDialogImpl" timestamp="1601362026614">
       <screen x="0" y="0" width="1600" height="860" />
     </state>
